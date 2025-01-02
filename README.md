@@ -1,2 +1,2 @@
-# Data-Analyst-Bootcamp-2024
-Building my portfolio projects including technologies like SQL, Tableau, Power BI , Python and AWS.
+# Data-Analyst Portfolio Projects
+Building my portfolio projects including technologies like Excel, SQL, Tableau, Power BI , Python and AWS.
